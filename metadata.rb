@@ -1,7 +1,7 @@
 name             'nxlog'
-version          '0.8.7'
+version          '0.0.1'
 
-description      'Installs and configures NXLog_ce on Linux or Windows'
+description      'Grasshopper fork of the nxlog cookbook. Installs and configures NXLog_ce on Linux or Windows'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
 
 issues_url       'http://github.com/widgit-cookbooks/nxlog/issues'
